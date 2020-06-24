@@ -309,6 +309,17 @@
     "@ckeditor/ckeditor5-image" "^19.0.1"
     "@ckeditor/ckeditor5-upload" "^19.0.1"
 
+"@ckeditor/ckeditor5-editor-balloon@^19.0.0":
+  version "19.0.1"
+  resolved "https://registry.npm.taobao.org/@ckeditor/ckeditor5-editor-balloon/download/@ckeditor/ckeditor5-editor-balloon-19.0.1.tgz#f7982abaade8940366e5944ffa50d735a3f8079a"
+  integrity sha1-95gquq3olANm5ZRP+lDXNaP4B5o=
+  dependencies:
+    "@ckeditor/ckeditor5-core" "^19.0.1"
+    "@ckeditor/ckeditor5-engine" "^19.0.1"
+    "@ckeditor/ckeditor5-ui" "^19.0.1"
+    "@ckeditor/ckeditor5-utils" "^19.0.1"
+    lodash-es "^4.17.10"
+
 "@ckeditor/ckeditor5-editor-decoupled@^19.0.0":
   version "19.0.1"
   resolved "https://registry.npm.taobao.org/@ckeditor/ckeditor5-editor-decoupled/download/@ckeditor/ckeditor5-editor-decoupled-19.0.1.tgz#6850d0f767ed8c85a50c7e50ce85b92d4816d25d"
